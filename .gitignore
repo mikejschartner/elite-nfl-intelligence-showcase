@@ -1,0 +1,9 @@
+.env
+.env.*
+*.db
+*.sqlite
+*.key
+keys/
+__pycache__/
+.venv/
+node_modules/
